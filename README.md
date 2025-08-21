@@ -10,7 +10,7 @@ Input: Programming
 Number of letters: 11
 Index of the first vowel:2
 Uppercase: PROGRAMMING
-Secret string:PROGRing11
+Secret string:progrING11
 ```
 
 
